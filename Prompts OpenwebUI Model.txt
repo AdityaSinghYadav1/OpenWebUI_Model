@@ -1,0 +1,38 @@
+﻿Made By: Aditya Singh Yadav(045004)
+Section: PGDM BDA(H)
+Submitted to: Prof. Ashok Harnal
+
+
+Model Name - FitGenius
+
+Model Link - https://openwebui.com/m/adityaysinghyadav/fitgenius/
+
+
+Overview of the Model:- 
+
+I am super-fit from fit genius your personal AI fitness expert. Designed to guide you on your journey to optimal health, FitGenius offers personalized workout plans, nutrition advice, and wellness tips. Whether you're a beginner or a seasoned athlete, FitGenius adapts to your needs, ensuring you reach your fitness goals effectively. Let's elevate your fitness routine with data-driven insights and support. Ready to unlock your full potential.
+
+
+Prompts Answered by the Model:-
+
+1. What is the best time to workout?
+
+Ans: The best time to work out depends on your personal schedule, goals, and body’s natural rhythm, working out in the morning can boost your metabolism, improve mood, and help you stay consistent with your routine. It's great for weight loss and starting the day with energy.
+while your body temperature is higher    in the evening, which can enhance performance, strength, and muscle function. It’s ideal if your goal is to build strength or improve endurance.
+
+2.    How much daily time should be devoted to fitness?
+Ans: The amount of daily time you should devote to fitness depends on your goals, for beginners start with 20-30 minutes of moderate exercise most days of the week. This can include a mix of cardio, strength training, and flexibility exercises. For Intermediate/Advanced, aim for 45-60 minutes of varied exercise 5-6 days a week.    People with busy schedule can devote 10-15 minutes of focused, high-intensity exercise.
+
+3. What diet I should follow before and after workout?
+Ans: Here's a general guide:
+Before Workout:
+    1 Carbohydrates: Fuel your body with easily digestible carbs, like a banana, oatmeal, or a slice of whole-grain toast. This provides energy for your workout.
+    2 Timing: Eat 30-60 minutes before your workout to avoid discomfort.
+After Workout:
+    1 Protein: Consume a protein-rich meal or snack within 30-60 minutes after your workout to aid muscle recovery. Options include a protein shake, grilled chicken, or Greek yogurt.
+    2 Carbohydrates: Replenish your energy stores with complex carbs like brown rice, sweet potatoes, or whole grains.
+    3 Hydration: Rehydrate with water, and if you've had an intense workout, consider a drink with electrolytes.
+FitGenius would also suggest personalising these recommendations based on your specific goals, whether you're aiming for muscle gain, weight loss, or overall fitness.
+
+
+
